@@ -33,7 +33,8 @@ void setup() {
 void loop()
 {
   // here is where you'd put code that needs to be running all the time.
-
+  // https://www.arduino.cc/reference/en/language/functions/time/millis/
+  
   // check to see if it's time to blink the LED; that is, if the 
   // difference between the current time and last time you blinked 
   // the LED is bigger than the interval at which you want to 
